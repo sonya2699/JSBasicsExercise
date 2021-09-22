@@ -1,5 +1,5 @@
 // #1
-console.log('13 is my favorite #');
+console.log(13);
 
 // #2
 // Numbers,
@@ -18,19 +18,15 @@ console.log('13 is my favorite #');
 
 // #4
 console.log(5%4);
-console.log(1%4);
+console.log(5%2)
 
 // #5
 console.log('I\'M MARY POPPINS, Y\'ALL');
 
 // #6 
 console.log("HAWK" + "eye");
-console.log("HAWK" +"" +"eye");
-console.log("HAWK " + "eye");
 
 // 7
-console.log("SJS".length);
-console.log("Sonya Silverman".length);
 console.log("Sonya".length + "Silverman".length);
 
 // #8
